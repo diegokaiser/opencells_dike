@@ -1,0 +1,11 @@
+# Dependencias descargadas y resultado generado al compilar.
+node_modules/
+dist/
+
+# Configuración del equipo y credenciales; conservamos la plantilla.
+.env
+.env.*
+!.env.example
+
+# Metadatos locales de macOS.
+.DS_Store
